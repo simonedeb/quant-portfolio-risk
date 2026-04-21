@@ -22,3 +22,15 @@ returns.csv
 # OS
 .DS_Store
 Thumbs.db
+
+# CV / test / fix scripts (not part of quant project)
+generate_cv.py
+generate_tests.py
+generate_presentation_guide.py
+strip_answers.py
+merge_to_v3.py
+add_gdpr.py
+compress_cv.py
+expand_cv.py
+fix_bracket.py
+fix_v2.py

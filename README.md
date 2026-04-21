@@ -55,7 +55,3 @@ python step8_report.py      # generates Portfolio_Risk_Report.pdf
 | Min VaR | ~8% | ~18% | ~0.44 |
 
 Min Variance portfolio outperforms in all stress scenarios.
-
----
-
-*Independent research project — MSc Finance application (IE, ESADE, EDHEC, Bocconi)*
